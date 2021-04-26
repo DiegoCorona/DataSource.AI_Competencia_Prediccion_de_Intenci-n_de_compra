@@ -6,6 +6,6 @@ Descripción: **En esta competencia, analizaremos la actividad de los usuarios q
 
 **En este caso especial, tendremos un problema de clasificación** 
 
-Mi código se puede encontar en el siguente link: https://github.com/DiegoCorona/DataSource.AI_Competencia_Prediccion_de_Intencion_de_compra/blob/main/DataSource_AI_Intencion_de_compra.ipynb
+Mi código se puede encontar en el siguente [link.](https://github.com/DiegoCorona/DataSource.AI_Competencia_Prediccion_de_Intencion_de_compra/blob/main/DataSource_AI_Intencion_de_compra.ipynb)
 
 Patrocinada por: [DataSource.AI](https://www.datasource.ai/es)
